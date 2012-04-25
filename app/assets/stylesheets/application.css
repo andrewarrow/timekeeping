@@ -21,3 +21,13 @@ p, .label {
   font-size: 14px;
   line-height: 24px;
 }
+
+#footer {
+  padding: 60px 0 0 30px;
+  text-align: center;
+}
+
+#next-page {
+  padding: 20px 0 0 30px;
+  text-align: right;
+}
